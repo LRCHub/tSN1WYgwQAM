@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "出町柳パラレルユニバース",
+  "base_artist": "ASIAN KUNG-FU GENERATION",
+  "createdAt": "2025-12-14T09:47:49.396125Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "出町柳パラレルユニバース",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/01_出町柳パラレルユニバース_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "出町柳パラレルユニバース",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/02_出町柳パラレルユニバース_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "出町柳パラレルユニバース",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/03_出町柳パラレルユニバース_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "出町柳パラレルユニバース",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/04_出町柳パラレルユニバース_Various_Artists.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "出町柳パラレルユニバース",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": false,
+      "path": "select/pl_01_出町柳パラレルユニバース_ASIAN_KUNG-FU_GENERATION.txt"
+    }
+  ]
+}
